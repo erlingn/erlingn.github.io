@@ -1,9 +1,9 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I am freelance developer. Currently doing more in backend, focused in Python and Django.
-disqus_shortname: stackproblems
+title: Projects
+description: Projects, build logs etc.
+author: ling
+github: https://github.com/erlingn
+about: dude
+#disqus_shortname: stackproblems
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
 
@@ -18,17 +18,17 @@ collections:
 social:
     - icon: fa-facebook
       link: "#"
-    - icon: fa-twitter
-      link: "https://twitter.com/agusmakmun6"
-    - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/summonagus"
+#    - icon: fa-twitter
+#      link: "https://twitter.com/agusmakmun6"
+#    - icon: fa-linkedin
+#      link: "https://www.linkedin.com/in/summonagus"
     - icon: fa-stack-exchange
       link: "#"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/erlingn"
 
 share:
-  twitter_username: agusmakmun6
+#  twitter_username: 
   fb_appid: 1749788565247320
 
 urls:
@@ -36,10 +36,10 @@ urls:
       url: /about/
     - text: My Projects
       url: /projects/
-    - text: XML Feed
-      url: /feed.xml
+#    - text: XML Feed
+#      url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://erlingn.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
