@@ -4,6 +4,20 @@ title: About
 permalink: /about/
 ---
 
-I am freelance developer. Currently doing more in backend, focused in Python and Django.
 
-email: agus[at]python.web.id
+## Heading
+
+About stuff!
+
+Here is a [link name][linktag]!
+[linktag]:    http://erlingn.github.io
+
+{% highlight c %}
+
+#include <nothing.h>
+
+void main() {
+  return 0;
+}
+
+{% endhighlight %}
