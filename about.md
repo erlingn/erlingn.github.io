@@ -9,10 +9,9 @@ permalink: /about/
 
 About stuff!
 
-Here is a [link name][linktag]!
-[linktag]:    http://erlingn.github.io
+Here is a [link name](http://erlingn.github.io)
 
-{% highlight c %}
+{% highlight c++ %}
 
 #include <nothing.h>
 
