@@ -4,7 +4,7 @@ author: ling
 github: https://github.com/erlingn
 about: dude
 #disqus_shortname: stackproblems
-google_analytics: UA-XXXXXXXX-Y
+#google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar2.png
 
 enableTags: true
@@ -44,8 +44,7 @@ baseurl: ""
 paginate: 20
 per_page: 20
 paginate_path: "/page/:num/"
-#markdown: kramdown
-markdown: rouge
+markdown: kramdown
 gems:
   - jekyll-paginate
   - jekyll-gist
